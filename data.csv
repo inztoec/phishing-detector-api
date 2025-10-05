@@ -1,0 +1,11 @@
+url,label
+google.com/search,good
+youtube.com,good
+wikipedia.org,good
+amazon.com,good
+paypal-login.secure-service-updates.com/login,bad
+your-bank.com.security-alert.org,bad
+tech-support-scam.net/microsoft,bad
+192.168.1.1/admin,bad
+web-mail-login-phish.info/owa,bad
+facebook.com,good

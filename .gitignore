@@ -1,0 +1,10 @@
+# Python build artifacts
+__pycache__/
+*.pyc
+
+# The trained model file itself
+*.pkl
+
+# IDE / Editor folders
+.vscode/
+.idea/
